@@ -1,0 +1,50 @@
+body{
+    background-color:darkviolet;
+    font-family: 'Chewy', cursive;
+}
+
+#header{
+    background-color:lightsalmon;
+    width:450px;
+    height:40px;
+    border-radius:100px;
+}
+
+#info{
+    background-color:lightsalmon;
+    width:450px;    
+    height:25px;
+    border-radius:100px;
+    font-size: 17px;
+}
+
+#button{
+margin-top:20px;
+margin-bottom:20px;
+width:200px;
+border-radius:100px;
+font-size: 17px;
+
+}
+
+#audio{
+    color:cornsilk;
+}
+
+#number{
+    color:cornsilk;
+}
+
+#image{
+    border-radius:50px;
+}
+
+.copy_right_footer{
+    background-color:navy;
+    color:cornsilk;
+    width:1250px;
+    height:30px;
+    border-radius:100px;
+    font-size: 20px;
+
+}
